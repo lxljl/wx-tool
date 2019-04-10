@@ -1,6 +1,6 @@
 {
   "name": "wx-tool",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "微信小程序常用工具类",
   "main": "index.js",
   "scripts": {
