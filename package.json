@@ -1,0 +1,25 @@
+{
+  "name": "wx-tool",
+  "version": "1.0.9",
+  "description": "微信小程序常用工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sea_lx <lxx_ljl@163.com>",
+  "license": "MIT",
+  "keywords": [
+    "微信", 
+    "微信小程序", 
+    "微信小程序工具类", 
+    "工具", 
+    "微信工具", 
+    "微信工具类", 
+    "wx", 
+    "utils", 
+    "wx-util",
+    "wx-utils", 
+    "tool", 
+    "wx-tool"
+  ]
+}
