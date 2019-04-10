@@ -1,10 +1,14 @@
 {
   "name": "wx-tool",
-  "version": "1.1.0",
+  "version": "1.1.3",
   "description": "微信小程序常用工具类",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxljl/wx-tool.git"
   },
   "author": "sea_lx <lxx_ljl@163.com>",
   "license": "MIT",
