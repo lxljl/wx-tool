@@ -2,6 +2,30 @@
 
 微信小程序工具类集合，有效提高开发时间和效率!
 
+**重要：版本要求**
+
+1. 小程序基础库版本 2.2.1 或以上
+2. 开发者工具 1.02.1808300 或以上开始，小程序支持使用 npm 安装第三方包。
+
+
+使用微信开发者工具打开此项目，然后在项目根目录下运行：
+```bash
+npm install --production
+```
+
+安装好依赖包之后，点击工具顶部菜单栏的详情：
+
+![image](https://github.com/lxljl/wx-tool/blob/master/doc/image/1.png)
+
+勾选“使用 npm 模块”选项：
+
+![image](https://github.com/lxljl/wx-tool/blob/master/doc/image/2.png)
+
+最后点击开发者工具中的菜单栏：工具 --> 构建 npm 即可运行。
+
+![image](https://github.com/lxljl/wx-tool/blob/master/doc/image/3.png)
+
+
 #### 1.快速开始
 ```
     $ npm i wx-tool --save
