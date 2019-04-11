@@ -2,9 +2,13 @@
 
 微信小程序工具类集合，有效提高开发时间和效率!
 
+
+## 另推荐[云函数合集](https://github.com/lxljl/cloudFns)模板
+
+
 **重要：版本要求**
 
-1. 小程序基础库版本 2.2.1 或以上
+1. 小程序基础库版本 2.2.3 或以上
 2. 开发者工具 1.02.1808300 或以上开始，小程序支持使用 npm 安装第三方包。
 
 
@@ -92,23 +96,25 @@ npm install --production
 * showToast --- [显示消息提示框](https://github.com/lxljl/wx-tool/blob/master/doc/showToast.md)
 * showModal --- [显示模态对话框](https://github.com/lxljl/wx-tool/blob/master/doc/showModal.md)
 * requestPayment --- [微信支付](https://github.com/lxljl/wx-tool/blob/master/doc/requestPayment.md)
+* cloudGetPay --- [云函数微信支付](https://github.com/lxljl/wx-tool/blob/master/doc/cloudGetPay.md)
+* localEncoding --- [读取本地文件内容](https://github.com/lxljl/wx-tool/blob/master/doc/localEncoding.md)
 * arrayEqual --- [判断两个数组是否相等](https://github.com/lxljl/wx-tool/blob/master/doc/arrayEqual.md)
 * isEmptyObject --- [判断obj是否为空](https://github.com/lxljl/wx-tool/blob/master/doc/isEmptyObject.md)
 * randomColor --- [随机生成颜色](https://github.com/lxljl/wx-tool/blob/master/doc/randomColor.md)
 * randomNum --- [生成指定范围随机数](https://github.com/lxljl/wx-tool/blob/master/doc/randomNum.md)
-* isIdCard --- [判断是否为身份证](https://github.com/lxljl/wx-tool/blob/master/doc/isIdCard.md)
 * bankSpace --- [银行卡每四位+空格](https://github.com/lxljl/wx-tool/blob/master/doc/bankSpace.md)
-* isNew --- [检测是否是新版本](https://github.com/lxljl/wx-tool/blob/master/doc/isNew.md)
 * getOptionsSync --- [获取小程序启动时的参数](https://github.com/lxljl/wx-tool/blob/master/doc/getOptionsSync.md)
+* trim --- [去除两端空格](https://github.com/lxljl/wx-tool/blob/master/doc/trim.md)
+* isNew --- [检测是否是新版本](https://github.com/lxljl/wx-tool/blob/master/doc/isNew.md)
 * isNum --- [检测数字](https://github.com/lxljl/wx-tool/blob/master/doc/isNum.md)
 * isPhone --- [检测该手机号是否正确](https://github.com/lxljl/wx-tool/blob/master/doc/isPhone.md)
 * isMail --- [检测该邮箱是否正确](https://github.com/lxljl/wx-tool/blob/master/doc/isMail.md)
+* isPlate --- [检测该车牌号是否正确](https://github.com/lxljl/wx-tool/blob/master/doc/isPlate.md)
+* isIdCard --- [判断是否为身份证](https://github.com/lxljl/wx-tool/blob/master/doc/isIdCard.md)
 * validateURL --- [合法uri](https://github.com/lxljl/wx-tool/blob/master/doc/validateURL.md)
 * validateLowerCase --- [是否小写字母](https://github.com/lxljl/wx-tool/blob/master/doc/validateLowerCase.md)
 * validateUpperCase --- [是否大写字母](https://github.com/lxljl/wx-tool/blob/master/doc/validateUpperCase.md)
 * validatAlphabets --- [是否大小写字母](https://github.com/lxljl/wx-tool/blob/master/doc/validatAlphabets.md)
-* isPlate --- [检测该车牌号是否正确](https://github.com/lxljl/wx-tool/blob/master/doc/isPlate.md)
-* trim --- [去除两端空格](https://github.com/lxljl/wx-tool/blob/master/doc/trim.md)
 * digitUppercase --- [现金额转大写](https://github.com/lxljl/wx-tool/blob/master/doc/digitUppercase.md)
 * decimalAdd --- [浮点数相加](https://github.com/lxljl/wx-tool/blob/master/doc/decimalAdd.md)
 * getDistance --- [计算两点的距离](https://github.com/lxljl/wx-tool/blob/master/doc/getDistance.md)
@@ -124,8 +130,6 @@ npm install --production
 * getQueryString --- [获取url参数](https://github.com/lxljl/wx-tool/blob/master/doc/getQueryString.md)
 * bMapTransQQMap --- [百度地图经纬度转腾讯地图经纬度](https://github.com/lxljl/wx-tool/blob/master/doc/bMapTransQQMap.md)
 * qqMapTransBMap --- [腾讯地图经纬度转百度地图经纬度](https://github.com/lxljl/wx-tool/blob/master/doc/qqMapTransBMap.md)
-* localEncoding --- [读取本地文件内容](https://github.com/lxljl/wx-tool/blob/master/doc/localEncoding.md)
 * cloudFn --- [云函数调用](https://github.com/lxljl/wx-tool/blob/master/doc/cloudFn.md)
 * cloudDataBase --- [云数据库调用](https://github.com/lxljl/wx-tool/blob/master/doc/cloudDataBase.md)
-* cloudGetPay --- [云函数微信支付](https://github.com/lxljl/wx-tool/blob/master/doc/cloudGetPay.md)
 * makePy --- [提取中文首字母](https://github.com/lxljl/wx-tool/blob/master/doc/makePy.md)

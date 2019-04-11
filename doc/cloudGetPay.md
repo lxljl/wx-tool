@@ -18,6 +18,9 @@
 
 #### 3.使用
 
+
+需要搭配云函数 使用   [微信支付云函数](https://github.com/lxljl/cloudFns/blob/master/doc/getPay.md)
+
 ```
     // 返回Promise
     await cloudGetPay({
